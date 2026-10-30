@@ -1,0 +1,49 @@
+# Bug Reports – Demo Web Shop
+
+## Project Overview
+This folder contains bug report documentation prepared during Manual Testing of the Tricentis Demo Web Shop application.
+
+**Application:** https://demowebshop.tricentis.com/
+
+**Testing Type:** Functional Testing
+
+**Testing Approach:** Manual Testing
+
+## Objectives
+- Identify and document application defects.
+- Record detailed steps to reproduce defects.
+- Compare expected and actual results.
+- Assign severity and priority.
+- Track defect status and retesting results.
+
+## Bug Report Details
+Each bug report includes:
+- Bug ID
+- Test Case ID
+- Module
+- Bug Title
+- Preconditions
+- Test Data
+- Steps to Reproduce
+- Expected Result
+- Actual Result
+- Severity and Priority
+- Status
+- Screenshots / Evidence
+- Retesting Result
+
+## Modules Covered
+- User Registration and Login
+- Product Search
+- Product Comparison
+- Wishlist
+- Shopping Cart
+- Checkout and Order Placement
+- Address Management
+- Order History
+
+## Tools Used
+- Microsoft Excel
+- GitHub
+- Google Chrome
+
